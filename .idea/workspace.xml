@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddb613c3-dccf-464d-b101-982972be5c45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NumPy/numpy5_tablice_operacje_na_plikach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumPy/numpy6.1_algebra_liniowa_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumPy/numpy6_algebra_liniowa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/numpy7_bladzenie_losowe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumPy/numpy3_metody_matematyczne_statystyczne.py" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/numpy4_metody_matematyczne_statystyczne.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,9 @@
     "Python.numpy3_random_numbers.executor": "Run",
     "Python.numpy4_metody_matematyczne_statystyczne.executor": "Run",
     "Python.numpy5_tablice_operacje_na_plikach.executor": "Run",
+    "Python.numpy6.1_algebra_liniowa_examples.executor": "Run",
     "Python.numpy6_algebra_liniowa.executor": "Run",
+    "Python.numpy7_bladzenie_losowe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -69,6 +68,58 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/NumPy" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.numpy7_bladzenie_losowe">
+    <configuration name="numpy6.1_algebra_liniowa_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python _in_data_analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumPy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/numpy6.1_algebra_liniowa_examples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpy7_bladzenie_losowe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python _in_data_analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumPy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/numpy7_bladzenie_losowe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.numpy7_bladzenie_losowe" />
+        <item itemvalue="Python.numpy6.1_algebra_liniowa_examples" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
