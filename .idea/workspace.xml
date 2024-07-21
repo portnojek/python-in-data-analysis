@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddb613c3-dccf-464d-b101-982972be5c45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NumPy/numpy3_metody_matematyczne_statystyczne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumPy/numpy3_random_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/numpy5_tablice_operacje_na_plikach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/numpy6.1_algebra_liniowa_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/numpy6_algebra_liniowa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy1_basis.py" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/numpy1_basis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy2_transposition_indexing_multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/numpy2_transposition_indexing_multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/numpy3_metody_matematyczne_statystyczne.py" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/numpy4_metody_matematyczne_statystyczne.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,9 @@
     "Python.numpy1.executor": "Run",
     "Python.numpy2.executor": "Run",
     "Python.numpy3_random_numbers.executor": "Run",
+    "Python.numpy4_metody_matematyczne_statystyczne.executor": "Run",
+    "Python.numpy5_tablice_operacje_na_plikach.executor": "Run",
+    "Python.numpy6_algebra_liniowa.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
