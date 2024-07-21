@@ -58,16 +58,16 @@ print(names, data_names)
 print(" ")
 print(data_names[(names == 'Will')])
 print(" ")
-print(data_names[~(names == 'Will')]) #Tylda jest odwróceniem ogólnego warunku
+print(data_names[~(names == 'Will')])  #Tylda jest odwróceniem ogólnego warunku
 print(" ")
 print(data_names[names != 'Bob'])
 print(" ")
 
-mask = (names == 'Bob')|(names == 'Will')
+mask = (names == 'Bob') | (names == 'Will')
 print(" ")
 print(mask)
 
-mask2 = (names == 'Bob')&(names == 'Will')
+mask2 = (names == 'Bob') & (names == 'Will')
 print(" ")
 print(mask2)
 
@@ -75,4 +75,7 @@ data = np.arange(-11, 12)
 print(data)
 
 data[data < 0] = 0
+print(data)
+
+data[names != 'Bob'] = 7
 print(data)
