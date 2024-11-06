@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddb613c3-dccf-464d-b101-982972be5c45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pandas/pandas1_podstawy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/pandas2_dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Additional/Seaborn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/API_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/API_handling2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/BeautifulSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/BeautifulSoup2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/BeautifulSoup3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/JSON1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/JSON2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/JSON3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/JSON4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +61,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.API_handling.executor": "Run",
+    "Python.API_handling2.executor": "Run",
+    "Python.BeautifulSoup.executor": "Run",
+    "Python.BeautifulSoup2.executor": "Run",
+    "Python.BeautifulSoup3.executor": "Run",
+    "Python.JSON2.executor": "Run",
+    "Python.JSON3.executor": "Run",
+    "Python.JSON4.executor": "Run",
+    "Python.Seaborn.executor": "Run",
     "Python.numpy1.executor": "Run",
     "Python.numpy2.executor": "Run",
     "Python.numpy3_random_numbers.executor": "Run",
@@ -69,11 +86,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DataCamp/API" />
       <recent name="$PROJECT_DIR$/NumPy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pandas2_dataframe">
-    <configuration name="numpy6.1_algebra_liniowa_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.JSON4">
+    <configuration name="BeautifulSoup2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python _in_data_analysis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumPy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataCamp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/numpy6.1_algebra_liniowa_examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataCamp/API/BeautifulSoup2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numpy7_bladzenie_losowe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BeautifulSoup3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python _in_data_analysis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumPy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataCamp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/numpy7_bladzenie_losowe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataCamp/API/BeautifulSoup3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas1_podstawy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="JSON2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python _in_data_analysis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataCamp/API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas/pandas1_podstawy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataCamp/API/JSON2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas2_dataframe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="JSON3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python _in_data_analysis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +166,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataCamp/API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas/pandas2_dataframe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataCamp/API/JSON3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JSON4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python _in_data_analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataCamp/API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataCamp/API/JSON4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,10 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pandas2_dataframe" />
-        <item itemvalue="Python.pandas1_podstawy" />
-        <item itemvalue="Python.numpy7_bladzenie_losowe" />
-        <item itemvalue="Python.numpy6.1_algebra_liniowa_examples" />
+        <item itemvalue="Python.JSON4" />
+        <item itemvalue="Python.JSON3" />
+        <item itemvalue="Python.JSON2" />
+        <item itemvalue="Python.BeautifulSoup3" />
+        <item itemvalue="Python.BeautifulSoup2" />
       </list>
     </recent_temporary>
   </component>
