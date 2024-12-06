@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddb613c3-dccf-464d-b101-982972be5c45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Additional/Seaborn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/API_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/API_handling2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/BeautifulSoup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/BeautifulSoup2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/BeautifulSoup3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/JSON1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/JSON2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/JSON3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/JSON4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataCamp/API/TwitterAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kaggle/Beginner/Arithmetic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +62,7 @@
     "Python.JSON3.executor": "Run",
     "Python.JSON4.executor": "Run",
     "Python.Seaborn.executor": "Run",
+    "Python.TwitterAPI.executor": "Run",
     "Python.numpy1.executor": "Run",
     "Python.numpy2.executor": "Run",
     "Python.numpy3_random_numbers.executor": "Run",
@@ -90,29 +83,7 @@
       <recent name="$PROJECT_DIR$/NumPy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.JSON4">
-    <configuration name="BeautifulSoup2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python _in_data_analysis" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataCamp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataCamp/API/BeautifulSoup2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.TwitterAPI">
     <configuration name="BeautifulSoup3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python _in_data_analysis" />
       <option name="ENV_FILES" value="" />
@@ -201,13 +172,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TwitterAPI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python _in_data_analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataCamp/API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataCamp/API/TwitterAPI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TwitterAPI" />
         <item itemvalue="Python.JSON4" />
         <item itemvalue="Python.JSON3" />
         <item itemvalue="Python.JSON2" />
         <item itemvalue="Python.BeautifulSoup3" />
-        <item itemvalue="Python.BeautifulSoup2" />
       </list>
     </recent_temporary>
   </component>
