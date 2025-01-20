@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddb613c3-dccf-464d-b101-982972be5c45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataCamp/API/TwitterAPI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kaggle/Beginner/Arithmetic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,32 +49,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.API_handling.executor": "Run",
-    "Python.API_handling2.executor": "Run",
-    "Python.BeautifulSoup.executor": "Run",
-    "Python.BeautifulSoup2.executor": "Run",
-    "Python.BeautifulSoup3.executor": "Run",
-    "Python.JSON2.executor": "Run",
-    "Python.JSON3.executor": "Run",
-    "Python.JSON4.executor": "Run",
-    "Python.Seaborn.executor": "Run",
-    "Python.TwitterAPI.executor": "Run",
-    "Python.numpy1.executor": "Run",
-    "Python.numpy2.executor": "Run",
-    "Python.numpy3_random_numbers.executor": "Run",
-    "Python.numpy4_metody_matematyczne_statystyczne.executor": "Run",
-    "Python.numpy5_tablice_operacje_na_plikach.executor": "Run",
-    "Python.numpy6.1_algebra_liniowa_examples.executor": "Run",
-    "Python.numpy6_algebra_liniowa.executor": "Run",
-    "Python.numpy7_bladzenie_losowe.executor": "Run",
-    "Python.pandas1_podstawy.executor": "Run",
-    "Python.pandas2_dataframe.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.API_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API_handling2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BeautifulSoup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BeautifulSoup2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BeautifulSoup3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JSON2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JSON3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JSON4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Seaborn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TwitterAPI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy3_random_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy4_metody_matematyczne_statystyczne.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy5_tablice_operacje_na_plikach.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy6.1_algebra_liniowa_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy6_algebra_liniowa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy7_bladzenie_losowe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas1_podstawy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas2_dataframe.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DataCamp/API" />
@@ -207,7 +205,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
