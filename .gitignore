@@ -1,0 +1,7 @@
+# Ignoruj foldery systemowe
+.idea/
+__pycache__/
+
+# Ignoruj pliki środowiska wirtualnego
+venv/
+.env
