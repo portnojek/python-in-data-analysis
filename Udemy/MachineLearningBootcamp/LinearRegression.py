@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 data = pandas.read_csv('cost_revenue_clean.csv', sep=';', decimal=',')
 X = DataFrame(data, columns=['production_budget_usd'])
 Y = DataFrame(data, columns=['worldwide_gross_usd'])
+print(data.describe())
+print(data.dtypes)
 
 plt.figure(figsize=(10,6))
 plt.scatter(X, Y, alpha=0.3)
