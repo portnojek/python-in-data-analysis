@@ -3,5 +3,5 @@
 __pycache__/
 
 # Ignoruj pliki środowiska wirtualnego
-venv/
+.venv/
 .env
