@@ -16,7 +16,7 @@ dopasowanie = LinearRegression().fit(X, Y)
 
 m = dopasowanie.coef_.flatten()
 b = dopasowanie.intercept_.flatten()
-
+    
 print("m = {0}".format(m))
 print("b = {0}".format(b))
 
