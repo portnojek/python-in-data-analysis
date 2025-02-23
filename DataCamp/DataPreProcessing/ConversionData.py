@@ -5,10 +5,10 @@ import pandas as pd
 # Print the head of the hits column
 volunteer = pd.read_csv('cost_revenue_clean.csv', sep=';', decimal=',')
 
-print(volunteer["hits"].head())
+print(volunteer["production_budget_usd"].head())
 
 # Convert the hits column to type int
-volunteer["hits"] = volunteer["hits"].astype("int")
+volunteer["production_budget_usd"] = volunteer["production_budget_usd"].astype("int")
 
 # Look at the dtypes of the dataset
 print(volunteer.dtypes)
