@@ -1,0 +1,19 @@
+{
+    "tables": {
+        "example_table": {
+            "columns": {
+                "feature1": {
+                    "sdtype": "numerical"
+                },
+                "feature2": {
+                    "sdtype": "numerical"
+                },
+                "label": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
