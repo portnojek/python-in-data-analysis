@@ -1,11 +1,31 @@
-# Import StandardScaler
+# Split the dataset and labels into training and test sets
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 
-# Create the scaler
+#1 example
+X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y, random_state=42)
+
+knn=KNeighborsClassifier()
+
+# Fit the k-nearest neighbors model to the training data
+knn.fit(X_train, y_train)
+
+# Score the model on the test data
+print(knn.score(X_test, y_test))
+
+#2 example
+X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y, random_state=42)
+
+# Instantiate a StandardScaler
 scaler = StandardScaler()
 
-# Subset the DataFrame you want to scale 
-wine_subset = wine[['Ash', 'Alcalinity of ash', 'Magnesium']]
+# Scale the training and test features
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
 
-# Apply the scaler to wine_subset
-wine_subset_scaled = scaler.fit_transform(wine_subset)
+# Fit the k-nearest neighbors model to the training data
+knn.fit(X_train_scaled, y_train)
+
+# Score the model on the test data
+print(knn.score(X_test_scaled, y_test))
