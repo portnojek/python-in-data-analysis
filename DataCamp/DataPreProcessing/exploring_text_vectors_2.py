@@ -9,6 +9,8 @@ Call set() on the returned filter_list to remove duplicated numbers.
 Call words_to_filter, passing in the following parameters: vocab for the vocab parameter, tfidf_vec.vocabulary_ for the original_vocab parameter, text_tfidf for the vector parameter, and 3 to grab the top_n 3 weighted words from each document.
 Finally, pass that filtered_words set into a list to use as a filter for the text vector.
 '''
+from sklearn.feature_extraction.text import TfidfVectorizer
+
 from DataCamp.DataPreProcessing.exploring_text_vectors_1 import return_weights
 
 '''
@@ -29,7 +31,21 @@ filtered_words = ____(____, ____, ____, ____)
 # Filter the columns in text_tfidf to only those in filtered_words
 filtered_text = text_tfidf[:, list(____)]
 '''
+# Przykładowe dane tekstowe
+texts = [
+    "UFO sighting in California",
+    "Bright light in the sky",
+    "Flying object hovered over the city",
+    "UFO appeared and disappeared quickly",
+    "Triangle shaped UFO spotted in Nevada"
+]
 
+# Utworzenie i dopasowanie TF-IDF
+tfidf_vec = TfidfVectorizer()
+text_tfidf = tfidf_vec.fit_transform(texts)
+
+# Słownik indeksów -> słów
+vocab = {v: k for k, v in tfidf_vec.vocabulary_.items()}
 import pandas as pd
 
 
