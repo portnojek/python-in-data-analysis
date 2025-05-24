@@ -1,3 +1,5 @@
+import pandas as pd
+
 # slownik pythona
 df = pd.DataFrame(data)
 
